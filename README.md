@@ -1,6 +1,5 @@
 IsNumberEven. C++ Tutorials. Microsoft Visual Studio IDE. Simple Input/Output. Algorithms. Console application. 
 
-
 A console application in the C++ programming language. 
 The program does the following:
   1. Prompts input a natural number (an integer positive).
@@ -16,4 +15,3 @@ IsNumberEven. ИС Visual Studio. Занятия по C++. Простой Вво
   2. Вычисляет остаток от деления числа на 2.
   3. Если остаток равен 0, то число чётное и нечётное в противном случае.
 Разработано в интегрированной среде Microsoft Visual Studio.
-
